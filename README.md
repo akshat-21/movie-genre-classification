@@ -31,7 +31,7 @@ After extraction of features, the system will detect the various objects present
 #### 3. Prediction of Genre
 We use Bag-of-Words to predict the genre of the poster using Neural Bag-of-Words model. The Neural Bag-of-Words (NBOW) model performs classification with an average of the input word vectors and achieves an impressive performance.
 ![input](./2.jpg)
-![output](./2.jpg)
+![output](./3.jpg)
 ![test1](./5.jpg)
 ![test2](./6.jpg)
 
